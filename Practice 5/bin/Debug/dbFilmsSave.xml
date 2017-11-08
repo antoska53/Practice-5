@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<ArrayOfFilm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Film>
+    <NameFilm>Star Wars: New Hope</NameFilm>
+    <DirectorFilm>George Lucas</DirectorFilm>
+    <YearFilm>1977</YearFilm>
+    <Box_officeFilm>775398007</Box_officeFilm>
+    <pic1>starwars4.jpg</pic1>
+  </Film>
+  <Film>
+    <NameFilm>Star Wars: The Empire Strikes Back</NameFilm>
+    <DirectorFilm>George Lucas</DirectorFilm>
+    <YearFilm>1980</YearFilm>
+    <Box_officeFilm>538375067</Box_officeFilm>
+    <pic1>starwars5.jpg</pic1>
+  </Film>
+  <Film>
+    <NameFilm>Star Wars: Return of the Jedi</NameFilm>
+    <DirectorFilm>George Lucas</DirectorFilm>
+    <YearFilm>1983</YearFilm>
+    <Box_officeFilm>475106177</Box_officeFilm>
+    <pic1>starwars6.jpg</pic1>
+  </Film>
+</ArrayOfFilm>

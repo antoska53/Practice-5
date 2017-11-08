@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<ArrayOfFilm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Film>
+    <NameFilm>Star Wars: The Phantom Menace</NameFilm>
+    <DirectorFilm>George Lucas</DirectorFilm>
+    <YearFilm>1999</YearFilm>
+    <Box_officeFilm>1027044677</Box_officeFilm>
+    <pic1>starwars1.jpg</pic1>
+  </Film>
+  <Film>
+    <NameFilm>Star Wars: Attack of the Clones</NameFilm>
+    <DirectorFilm>George Lucas</DirectorFilm>
+    <YearFilm>2002</YearFilm>
+    <Box_officeFilm>649398328</Box_officeFilm>
+    <pic1>starwars2.jpg</pic1>
+  </Film>
+  <Film>
+    <NameFilm>Star Wars: Revenge of the Sith</NameFilm>
+    <DirectorFilm>George Lucas</DirectorFilm>
+    <YearFilm>2005</YearFilm>
+    <Box_officeFilm>849997605</Box_officeFilm>
+    <pic1>starwars3.jpg</pic1>
+  </Film>
+  <Film>
+    <NameFilm>Star Wars: New Hope</NameFilm>
+    <DirectorFilm>George Lucas</DirectorFilm>
+    <YearFilm>1977</YearFilm>
+    <Box_officeFilm>775398007</Box_officeFilm>
+    <pic1>starwars4.jpg</pic1>
+  </Film>
+  <Film>
+    <NameFilm>Star Wars: The Empire Strikes Back</NameFilm>
+    <DirectorFilm>George Lucas</DirectorFilm>
+    <YearFilm>1980</YearFilm>
+    <Box_officeFilm>538375067</Box_officeFilm>
+    <pic1>starwars5.jpg</pic1>
+  </Film>
+  <Film>
+    <NameFilm>Star Wars: Return of the Jedi</NameFilm>
+    <DirectorFilm>George Lucas</DirectorFilm>
+    <YearFilm>1983</YearFilm>
+    <Box_officeFilm>475106177</Box_officeFilm>
+    <pic1>starwars6.jpg</pic1>
+  </Film>
+<Film>
+    <NameFilm>Star Wars: The Force Awakens</NameFilm>
+    <DirectorFilm>J.J. Abrams</DirectorFilm>
+    <YearFilm>2015</YearFilm>
+    <Box_officeFilm>2068223624</Box_officeFilm>
+    <pic1>starwars7.jpg</pic1>
+  </Film>
+<Film>
+    <NameFilm>Star Wars: Rogue One</NameFilm>
+    <DirectorFilm>Gareth Edwards</DirectorFilm>
+    <YearFilm>2016</YearFilm>
+    <Box_officeFilm>1056057273</Box_officeFilm>
+    <pic1>RogueOne.jpg</pic1>
+  </Film>
+</ArrayOfFilm>

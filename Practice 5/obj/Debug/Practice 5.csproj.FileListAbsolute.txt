@@ -1,0 +1,9 @@
+c:\users\tosha\documents\visual studio 2015\Projects\Practice 5\Practice 5\bin\Debug\Practice 5.exe.config
+c:\users\tosha\documents\visual studio 2015\Projects\Practice 5\Practice 5\bin\Debug\Practice 5.exe
+c:\users\tosha\documents\visual studio 2015\Projects\Practice 5\Practice 5\bin\Debug\Practice 5.pdb
+c:\users\tosha\documents\visual studio 2015\Projects\Practice 5\Practice 5\obj\Debug\Practice 5.csprojResolveAssemblyReference.cache
+c:\users\tosha\documents\visual studio 2015\Projects\Practice 5\Practice 5\obj\Debug\Practice_5.Form1.resources
+c:\users\tosha\documents\visual studio 2015\Projects\Practice 5\Practice 5\obj\Debug\Practice_5.Properties.Resources.resources
+c:\users\tosha\documents\visual studio 2015\Projects\Practice 5\Practice 5\obj\Debug\Practice 5.csproj.GenerateResource.Cache
+c:\users\tosha\documents\visual studio 2015\Projects\Practice 5\Practice 5\obj\Debug\Practice 5.exe
+c:\users\tosha\documents\visual studio 2015\Projects\Practice 5\Practice 5\obj\Debug\Practice 5.pdb
